@@ -1,4 +1,4 @@
-# 🧠 NLP Evolution: From N-grams to BERT
+#  NLP Evolution: From N-grams to BERT
 
 > **Companion code for the Medium article:**  
 > *"From Counting Words to Understanding Meaning: A Brief History of NLP"*
@@ -7,7 +7,7 @@ This repository walks through every concept in the article with **runnable Pytho
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 nlp-evolution-explained/
@@ -34,7 +34,7 @@ nlp-evolution-explained/
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Clone the repo
 ```bash
@@ -62,7 +62,7 @@ Open them **in order** — each one builds on the previous.
 
 ---
 
-## 📓 What's Inside Each Notebook
+##  What's Inside Each Notebook
 
 ### `01_ngrams_and_smoothing.ipynb`
 - Build a unigram, bigram, and trigram model from scratch
@@ -84,13 +84,13 @@ Open them **in order** — each one builds on the previous.
 
 ---
 
-## 🔑 Key Concept at a Glance
+##  Key Concept at a Glance
 
 | Era | Model | Representation | Context-aware? |
 |-----|-------|----------------|----------------|
-| Statistical | N-gram | Count tables | ❌ (short window only) |
-| Vector Space | Word2Vec / GloVe | Dense static vectors | ❌ (one vector per word) |
-| Contextual | ELMo / BERT | Dynamic vectors | ✅ (full sentence) |
+| Statistical | N-gram | Count tables |  (short window only) |
+| Vector Space | Word2Vec / GloVe | Dense static vectors |  (one vector per word) |
+| Contextual | ELMo / BERT | Dynamic vectors |  (full sentence) |
 
 ---
 
@@ -107,18 +107,18 @@ See `requirements.txt`. Main dependencies:
 
 ---
 
-## 📖 Read the Full Article
+##  Read the Full Article
 
-👉 [Medium Article Link — add yours here]
+ [Medium Article Link — add yours here]
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Found a bug or want to add ELMo comparisons? PRs are welcome. Open an issue first if it's a big change.
 
 ---
 
-## 📄 License
+##  License
 
 MIT — use freely, attribution appreciated.
