@@ -1,0 +1,20 @@
+The cat sat on the mat near the river bank.
+A quick brown fox jumped over the lazy dog.
+The bank approved the loan after reviewing the documents.
+She walked along the river bank at sunset and felt at peace.
+Natural language processing helps computers understand human text.
+The fox ran into the forest and disappeared behind the trees.
+I went to the bank to deposit my paycheck this morning.
+The dog chased the cat across the mat and into the garden.
+Language models learn patterns by reading large amounts of text.
+The river bank was muddy after the heavy rain last night.
+King Arthur ruled the kingdom with wisdom and grace.
+The queen addressed her subjects from the palace balcony.
+A man and a woman walked together through the crowded market.
+Word vectors capture semantic meaning in high dimensional space.
+The financial bank closed early on the national holiday.
+She sat on the grassy bank watching the river flow slowly.
+BERT reads the entire sentence before assigning meaning to each word.
+The fox is a clever animal that lives in forests and fields.
+Deep learning has transformed how machines process natural language.
+The cat knocked the mat off the table near the window.
